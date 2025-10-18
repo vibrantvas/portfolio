@@ -71,7 +71,6 @@ With extensive experience in executive support, project management, and business
 - 🌟 **[AI Business Automation Suite](https://github.com/vibrantvas/ai-automation-suite)** - Comprehensive AI solutions for small business automation
 - 📝 **[Client Management Dashboard](https://github.com/vibrantvas/client-dashboard)** - Real-time project tracking with automated notifications
 - 🤝 **[VA Service Platform](https://github.com/vibrantvas/va-platform)** - Streamlined platform connecting VAs with clients
-- 📚 **[Process Documentation System](https://github.com/vibrantvas/process-docs)** - Automated SOP creation and maintenance tool
 - 🔗 **[Multi-Platform Integration Hub](https://github.com/vibrantvas/integration-hub)** - Unified system connecting business tools
 
 ## 💼 Professional Experience
