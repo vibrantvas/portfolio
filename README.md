@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Ashlee McCarty
 
 <div align="center">
-
+  
 ## 🚀 Systems Integration Extraordinaire & AI Management Expert
 
 **Founder of Vibrant VA Services**
@@ -71,6 +71,7 @@ With extensive experience in executive support, project management, and business
 - 🌟 **[AI Business Automation Suite](https://github.com/vibrantvas/ai-automation-suite)** - Comprehensive AI solutions for small business automation
 - 📝 **[Client Management Dashboard](https://github.com/vibrantvas/client-dashboard)** - Real-time project tracking with automated notifications
 - 🤝 **[VA Service Platform](https://github.com/vibrantvas/va-platform)** - Streamlined platform connecting VAs with clients
+- 📚 **[Process Documentation System](https://github.com/vibrantvas/process-docs)** - Automated SOP creation and maintenance tool
 - 🔗 **[Multi-Platform Integration Hub](https://github.com/vibrantvas/integration-hub)** - Unified system connecting business tools
 
 ## 💼 Professional Experience
@@ -87,6 +88,12 @@ Building and scaling a full-service virtual assistant business that leverages AI
 - Provide strategic business consultation on process optimization
 - Achieved 100% client retention through exceptional service delivery
 - Reduced client administrative overhead by average of 15+ hours per week
+
+### 💼 Professional Assistant | J and S Digital Services
+**2022 - Present** • Remote (Contract)
+
+Providing high-level administrative support to C-suite executives and business owners:
+
 - Manage complex calendars and coordinate meetings across multiple time zones
 - Handle confidential correspondence and client communications
 - Coordinate project timelines across cross-functional teams
@@ -94,6 +101,12 @@ Building and scaling a full-service virtual assistant business that leverages AI
 - Process financial documentation and expense reports
 - Research and compile data for executive decision-making
 - Manage social media accounts and professional online presence
+
+### 📋 Administrative Specialist | Various Client Contracts
+**2020 - 2022** • Remote (Freelance)
+
+Delivered virtual administrative support to small businesses and entrepreneurs:
+
 - Provided comprehensive administrative support across multiple client accounts
 - Implemented organizational systems and standard operating procedures
 - Conducted market research and competitive analysis
