@@ -95,12 +95,10 @@ AI Tool Integration & Management
 - **Email Management:** Gmail, Outlook, Automation Tools
 
 
-<div align="center">
+<div align="left">
   
 
 ## 🔭 Current Projects
-
-<div align="left">
 
 🌟 **[AI Business Automation Suite](https://github.com/vibrantvas/ai-automation-suite)** - Comprehensive AI solutions for small business automation
 
@@ -112,12 +110,10 @@ AI Tool Integration & Management
 
 🔗 **[Multi-Platform Integration Hub](https://github.com/vibrantvas/integration-hub)** - Unified system connecting business tools
 
-<div align="center">
+<div align="left">
   
 
 ## 💼 Professional Experience
-
-<div align="left">
 
 ### 🚀 Founder & Lead Specialist | Vibrant VA Services
 **2018 - Present** • Remote
@@ -223,11 +219,9 @@ Delivered virtual administrative support to small businesses and entrepreneurs
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vibrantvas&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866)
 
 
-<div align="center">
+<div align="left">
   
 ## 🏆 Key Achievements
-
-<div align="left">
   
 💯 **100% Client Retention Rate** - Maintained through exceptional service delivery
 
@@ -240,11 +234,9 @@ Delivered virtual administrative support to small businesses and entrepreneurs
 🚀 **Proprietary Systems** - Developed automation frameworks now used across multiple accounts
 
 
-<div align="center">
+<div align="left">
   
 ## 🤝 Let's Connect!
-
-<div align="left">
 
 I'm always interested in collaborating on innovative projects, especially those involving:
 
@@ -259,11 +251,9 @@ I'm always interested in collaborating on innovative projects, especially those 
 🔗 Multi-platform integration and workflow automation
 
 
-<div align="center">
+<div align="left">
   
 ### 📫 Contact Me
-
-<div align="left">
 
 📧 **Email:** [vibrantvaservices@gmail.com](mailto:vibrantvaservices@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/vibrantvas](https://linkedin.com/in/vibrantvas)  
