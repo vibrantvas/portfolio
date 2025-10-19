@@ -34,12 +34,12 @@ With extensive experience in executive support, project management, and business
 
 <div align="left">
 
-- 🤖 **AI Systems Integration** - Design and implement custom AI automation solutions that reduce workload by up to 60%
-- 📊 **Project Management** - Coordinate complex projects with multiple stakeholders, ensuring on-time delivery
-- 🔧 **Business Process Optimization** - Identify inefficiencies and implement automated solutions that save 15+ hours weekly
-- 💼 **Executive Virtual Assistant Services** - Provide comprehensive C-suite administrative support with AI enhancement
-- 🌐 **Web Development & Automation** - Build functional applications, dashboards, and integration tools
-- 🔗 **Platform Integration** - Connect disparate business systems (Trello, Slack, Gmail, CRM) into unified workflows
+🤖 **AI Systems Integration** - Design and implement custom AI automation solutions that reduce workload by up to 60%
+📊 **Project Management** - Coordinate complex projects with multiple stakeholders, ensuring on-time delivery
+🔧 **Business Process Optimization** - Identify inefficiencies and implement automated solutions that save 15+ hours weekly
+💼 **Executive Virtual Assistant Services** - Provide comprehensive C-suite administrative support with AI enhancement
+🌐 **Web Development & Automation** - Build functional applications, dashboards, and integration tools
+🔗 **Platform Integration** - Connect disparate business systems (Trello, Slack, Gmail, CRM) into unified workflows
 
 <div align="center">
   
@@ -53,11 +53,11 @@ With extensive experience in executive support, project management, and business
 ![Automation](https://img.shields.io/badge/Automation-Tools-orange?style=flat)
 
 AI Tool Integration & Management
-Workflow Automation Systems
-API Development & Integration
-Process Optimization & Mapping
-Zapier, Make (Integromat)
-Custom Python Scripts
+- Workflow Automation Systems
+- API Development & Integration
+- Process Optimization & Mapping
+- Zapier, Make (Integromat)
+- Custom Python Scripts
 
 <div align="left">
   
@@ -68,23 +68,28 @@ Custom Python Scripts
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-HTML, CSS, JavaScript
-Python
-Git & Version Control
-Responsive Web Design
-Database Management
+- HTML, CSS, JavaScript
+- Python
+- Git & Version Control
+- Responsive Web Design
+- Database Management
 
 <div align="left">
   
 ### Business & Project Management Tools
 
-**Project Management:** Trello, Asana, Monday.com, Jira
-**Communication:** Slack, Microsoft Teams, Zoom
-**Documentation:** Google Workspace, Microsoft Office Suite
-**CRM Systems:** HubSpot, Salesforce
-**Time Tracking:** Toggl, Clockify, RescueTime
-**Social Media:** Buffer, Hootsuite
-**Email Management:** Gmail, Outlook, Automation Tools
+![Trello](https://img.shields.io/badge/Trello-E34F26?style=flat&logo=trello&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-1572B6?style=flat&logo=slack&logoColor=black)
+![Google](https://img.shields.io/badge/Google-F7DF1E?style=flat&logo=google&logoColor=black)
+![Microsoft](https://img.shields.io/badge/Microsoft-E34F26?style=flat&logo=Microsoft&logoColor=white)
+
+- **Project Management:** Trello, Asana, Monday.com, Jira
+- **Communication:** Slack, Microsoft Teams, Zoom
+- **Documentation:** Google Workspace, Microsoft Office Suite
+- **CRM Systems:** HubSpot, Salesforce
+- **Time Tracking:** Toggl, Clockify, RescueTime
+- **Social Media:** Buffer, Hootsuite
+- **Email Management:** Gmail, Outlook, Automation Tools
 
 <div align="center">
   
