@@ -77,7 +77,7 @@ With extensive experience in executive support, project management, and business
 ## 💼 Professional Experience
 
 ### 🚀 Founder & Lead Specialist | Vibrant VA Services
-**2023 - Present** • Remote
+**2018 - Present** • Remote
 
 Building and scaling a full-service virtual assistant business that leverages AI and automation to deliver exceptional client results:
 
@@ -104,7 +104,7 @@ Building and scaling a full-service virtual assistant business that leverages AI
 ## 🎓 Education & Certifications
 
 **DeVry University / Keller Graduate School**  
-*Project Management & Business* • Current
+*Project Management & Technical Management* • Current
 
 **Focus Areas:**
 - Project Management Methodologies (PMBOK)
@@ -118,7 +118,6 @@ Building and scaling a full-service virtual assistant business that leverages AI
 - 📜 Business Analysis Certification
 - 🤖 AI & Automation Specialist
 - 🔧 Systems Integration Certification
-- 📊 [View All Credentials on Credly](https://www.credly.com/users/ash-devry/)
 - 🎓 [Complete Credential Wallet](https://www.credential.net/profile/ash-devry/wallet)
 
 ## 🌱 Currently Learning
@@ -165,7 +164,7 @@ I'm always interested in collaborating on innovative projects, especially those 
 💼 **LinkedIn:** [linkedin.com/in/vibrantvas](https://linkedin.com/in/vibrantvas)  
 🐙 **GitHub:** [@vibrantvas](https://github.com/vibrantvas)  
 📂 **Repository:** [github.com/vibrantvas/portfolio](https://github.com/vibrantvas/portfolio)  
-🏆 **Credentials:** [Credly](https://www.credly.com/users/ash-devry/) | [Credential Wallet](https://www.credential.net/profile/ash-devry/wallet)
+🏆 **Credentials:** [Credential Wallet](https://www.credential.net/profile/ash-devry/wallet)
 
 ## 💼 Available For
 
@@ -187,7 +186,6 @@ I'm obsessed with finding the perfect AI tool for every task - if it can be auto
 ![Profile Views](https://komarev.com/ghpvc/?username=vibrantvas&color=F85D7F&style=flat-square)
 
 </div>
-"""
 
 with open('README.md', 'w', encoding='utf-8') as f:
     f.write(profile_readme)
