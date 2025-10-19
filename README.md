@@ -50,7 +50,7 @@ With extensive experience in executive support, project management, and business
 ### AI & Automation
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![APIs](https://img.shields.io/badge/API-Integration-green?style=flat)
-![Automation](https://img.shields.io/badge/Automation-Tools-orange?style=flat)
+![Automation](https://img.shields.io/badge/Automation-orange?style=flat)
 
 AI Tool Integration & Management
 - Workflow Automation Systems
@@ -81,7 +81,7 @@ AI Tool Integration & Management
 ![Trello](https://img.shields.io/badge/Trello-E34F26?style=flat&logo=trello&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-1572B6?style=flat&logo=slack&logoColor=black)
 ![Google](https://img.shields.io/badge/Google-F7DF1E?style=flat&logo=google&logoColor=black)
-![Microsoft](https://img.shields.io/badge/Microsoft-E34F26?style=flat&logo=Microsoft&logoColor=white)
+![Microsoft](https://img.shields.io/badge/Microsoft-1572B6?style=flat&logo=Microsoft365&logoColor=white)
 
 - **Project Management:** Trello, Asana, Monday.com, Jira
 - **Communication:** Slack, Microsoft Teams, Zoom
@@ -97,11 +97,11 @@ AI Tool Integration & Management
 
 <div align="left">
 
-- 🌟 **[AI Business Automation Suite](https://github.com/vibrantvas/ai-automation-suite)** - Comprehensive AI solutions for small business automation
-- 📝 **[Client Management Dashboard](https://github.com/vibrantvas/client-dashboard)** - Real-time project tracking with automated notifications
-- 🤝 **[VA Service Platform](https://github.com/vibrantvas/va-platform)** - Streamlined platform connecting VAs with clients
-- 📚 **[Process Documentation System](https://github.com/vibrantvas/process-docs)** - Automated SOP creation and maintenance tool
-- 🔗 **[Multi-Platform Integration Hub](https://github.com/vibrantvas/integration-hub)** - Unified system connecting business tools
+🌟 **[AI Business Automation Suite](https://github.com/vibrantvas/ai-automation-suite)** - Comprehensive AI solutions for small business automation
+📝 **[Client Management Dashboard](https://github.com/vibrantvas/client-dashboard)** - Real-time project tracking with automated notifications
+🤝 **[VA Service Platform](https://github.com/vibrantvas/va-platform)** - Streamlined platform connecting VAs with clients
+📚 **[Process Documentation System](https://github.com/vibrantvas/process-docs)** - Automated SOP creation and maintenance tool
+🔗 **[Multi-Platform Integration Hub](https://github.com/vibrantvas/integration-hub)** - Unified system connecting business tools
 
 <div align="center">
   
