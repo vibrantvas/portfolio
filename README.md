@@ -88,12 +88,6 @@ Building and scaling a full-service virtual assistant business that leverages AI
 - Provide strategic business consultation on process optimization
 - Achieved 100% client retention through exceptional service delivery
 - Reduced client administrative overhead by average of 15+ hours per week
-
-### 💼 Professional Assistant | J and S Digital Services
-**2022 - Present** • Remote (Contract)
-
-Providing high-level administrative support to C-suite executives and business owners:
-
 - Manage complex calendars and coordinate meetings across multiple time zones
 - Handle confidential correspondence and client communications
 - Coordinate project timelines across cross-functional teams
@@ -101,12 +95,6 @@ Providing high-level administrative support to C-suite executives and business o
 - Process financial documentation and expense reports
 - Research and compile data for executive decision-making
 - Manage social media accounts and professional online presence
-
-### 📋 Administrative Specialist | Various Client Contracts
-**2020 - 2022** • Remote (Freelance)
-
-Delivered virtual administrative support to small businesses and entrepreneurs:
-
 - Provided comprehensive administrative support across multiple client accounts
 - Implemented organizational systems and standard operating procedures
 - Conducted market research and competitive analysis
@@ -199,3 +187,9 @@ I'm obsessed with finding the perfect AI tool for every task - if it can be auto
 ![Profile Views](https://komarev.com/ghpvc/?username=vibrantvas&color=F85D7F&style=flat-square)
 
 </div>
+"""
+
+with open('README.md', 'w', encoding='utf-8') as f:
+    f.write(profile_readme)
+
+print("✅ Created: README.md (for vibrantvas/vibrantvas repository)")
