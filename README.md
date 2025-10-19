@@ -11,7 +11,7 @@
 *Transforming businesses through intelligent automation and seamless system integration*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vibrantvas-blue?style=flat&logo=linkedin)](https://linkedin.com/in/vibrantvas)
-[![Credly](https://img.shields.io/badge/Credly-Credentials-orange?style=flat&logo=credly)](https://www.credly.com/users/ash-devry/)
+[![Credentials](https://img.shields.io/badge/Credentials-orange?style=flat&logo=accredible)](https://www.credential.net/profile/ash-devry/wallet))
 [![Email](https://img.shields.io/badge/Email-vibrantvaservices%40gmail.com-red?style=flat&logo=gmail)](mailto:vibrantvaservices@gmail.com)
 
 </div>
@@ -22,7 +22,7 @@
 
 I'm a systems integration specialist and AI management expert with a proven track record of creating automated solutions that streamline business operations. As the founder of **Vibrant VA Services**, I help businesses leverage AI and automation to work smarter, reduce administrative overhead, and focus on growth.
 
-With extensive experience in executive support, project management, and business process optimization, I combine technical expertise with strategic thinking to deliver solutions that solve real business challenges. Currently pursuing advanced studies in Project Management and Business at DeVry/Keller while building cutting-edge AI-powered systems for clients worldwide.
+With extensive experience in executive support, project management, and business process optimization, I combine technical expertise with strategic thinking to deliver solutions that solve real business challenges. Currently pursuing advanced studies in Technical Management and Business Analysis at DeVry University while building cutting-edge AI-powered systems for clients worldwide.
 
 ## 🎯 What I Do
 
@@ -79,9 +79,9 @@ With extensive experience in executive support, project management, and business
 ## 💼 Professional Experience
 
 ### 🚀 Founder & Lead Specialist | Vibrant VA Services
-**2023 - Present** • Remote
+**2018 - Present** • Remote
 
-Building and scaling a full-service virtual assistant business that leverages AI and automation to deliver exceptional client results:
+Building and scaling a full-service virtual assistant business that leverages AI and automation to deliver exceptional client results
 
 - Founded and manage virtual assistant business serving clients across multiple industries
 - Design custom AI-powered automation solutions reducing client workload by up to 60%
@@ -91,10 +91,7 @@ Building and scaling a full-service virtual assistant business that leverages AI
 - Achieved 100% client retention through exceptional service delivery
 - Reduced client administrative overhead by average of 15+ hours per week
 
-### 💼 Professional Assistant | J and S Digital Services
-**2022 - Present** • Remote (Contract)
-
-Providing high-level administrative support to C-suite executives and business owners:
+Providing high-level administrative support to C-suite executives and business owners
 
 - Manage complex calendars and coordinate meetings across multiple time zones
 - Handle confidential correspondence and client communications
@@ -104,10 +101,7 @@ Providing high-level administrative support to C-suite executives and business o
 - Research and compile data for executive decision-making
 - Manage social media accounts and professional online presence
 
-### 📋 Administrative Specialist | Various Client Contracts
-**2020 - 2022** • Remote (Freelance)
-
-Delivered virtual administrative support to small businesses and entrepreneurs:
+Delivered virtual administrative support to small businesses and entrepreneurs
 
 - Provided comprehensive administrative support across multiple client accounts
 - Implemented organizational systems and standard operating procedures
@@ -118,21 +112,39 @@ Delivered virtual administrative support to small businesses and entrepreneurs:
 ## 🎓 Education & Certifications
 
 **DeVry University / Keller Graduate School**  
-*Project Management & Business* • Current
+*Bachelor of Science in Technical Management* • 2025 - Present
 
 **Focus Areas:**
-- Project Management Methodologies (PMBOK)
-- Business Analysis & Requirements
-- Risk & Quality Management
-- Cost Estimation & Budgeting
-- Stakeholder Communication
+- Systems Analysis
+- Database Management
+- Project Management
+- Technical Communication
+- Software Development Lifecycle
+- Business Process Modeling
+
+**York Technical College**  
+*Technical Management & Business Analysis* • 2010 - 2011
+
+**Focus Areas:**
+- Operations Management
+- Financial Analysis
+- Process Improvement
+- Quality Assurance
+
+**Calhoun Community College**  
+*Business Administration & Accounting* • 2006 - 2010
+
+**Focus Areas:**
+- Operations Management
+- Financial Analysis
+- Process Improvement
+- Quality Assurance
 
 **Certifications:**
-- 🏆 Project Management Professional (in progress)
+- 🏆 Project Management Professional
 - 📜 Business Analysis Certification
 - 🤖 AI & Automation Specialist
 - 🔧 Systems Integration Certification
-- 📊 [View All Credentials on Credly](https://www.credly.com/users/ash-devry/)
 - 🎓 [Complete Credential Wallet](https://www.credential.net/profile/ash-devry/wallet)
 
 ## 🌱 Currently Learning
@@ -179,7 +191,7 @@ I'm always interested in collaborating on innovative projects, especially those 
 💼 **LinkedIn:** [linkedin.com/in/vibrantvas](https://linkedin.com/in/vibrantvas)  
 🐙 **GitHub:** [@vibrantvas](https://github.com/vibrantvas)  
 📂 **Repository:** [github.com/vibrantvas/portfolio](https://github.com/vibrantvas/portfolio)  
-🏆 **Credentials:** [Credly](https://www.credly.com/users/ash-devry/) | [Credential Wallet](https://www.credential.net/profile/ash-devry/wallet)
+🏆 **Credentials:** [Credential Wallet](https://www.credential.net/profile/ash-devry/wallet)
 
 ## 💼 Available For
 
