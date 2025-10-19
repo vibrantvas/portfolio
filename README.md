@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Ashlee McCarty
 
 <div align="center">
-  
+
 ## 🚀 Systems Integration Extraordinaire & AI Management Expert
 
 **Founder of Vibrant VA Services**
@@ -77,7 +77,7 @@ With extensive experience in executive support, project management, and business
 ## 💼 Professional Experience
 
 ### 🚀 Founder & Lead Specialist | Vibrant VA Services
-**2018 - Present** • Remote
+**2023 - Present** • Remote
 
 Building and scaling a full-service virtual assistant business that leverages AI and automation to deliver exceptional client results:
 
@@ -88,6 +88,12 @@ Building and scaling a full-service virtual assistant business that leverages AI
 - Provide strategic business consultation on process optimization
 - Achieved 100% client retention through exceptional service delivery
 - Reduced client administrative overhead by average of 15+ hours per week
+
+### 💼 Professional Assistant | J and S Digital Services
+**2022 - Present** • Remote (Contract)
+
+Providing high-level administrative support to C-suite executives and business owners:
+
 - Manage complex calendars and coordinate meetings across multiple time zones
 - Handle confidential correspondence and client communications
 - Coordinate project timelines across cross-functional teams
@@ -95,6 +101,12 @@ Building and scaling a full-service virtual assistant business that leverages AI
 - Process financial documentation and expense reports
 - Research and compile data for executive decision-making
 - Manage social media accounts and professional online presence
+
+### 📋 Administrative Specialist | Various Client Contracts
+**2020 - 2022** • Remote (Freelance)
+
+Delivered virtual administrative support to small businesses and entrepreneurs:
+
 - Provided comprehensive administrative support across multiple client accounts
 - Implemented organizational systems and standard operating procedures
 - Conducted market research and competitive analysis
@@ -104,7 +116,7 @@ Building and scaling a full-service virtual assistant business that leverages AI
 ## 🎓 Education & Certifications
 
 **DeVry University / Keller Graduate School**  
-*Project Management & Technical Management* • Current
+*Project Management & Business* • Current
 
 **Focus Areas:**
 - Project Management Methodologies (PMBOK)
@@ -118,6 +130,7 @@ Building and scaling a full-service virtual assistant business that leverages AI
 - 📜 Business Analysis Certification
 - 🤖 AI & Automation Specialist
 - 🔧 Systems Integration Certification
+- 📊 [View All Credentials on Credly](https://www.credly.com/users/ash-devry/)
 - 🎓 [Complete Credential Wallet](https://www.credential.net/profile/ash-devry/wallet)
 
 ## 🌱 Currently Learning
@@ -164,7 +177,7 @@ I'm always interested in collaborating on innovative projects, especially those 
 💼 **LinkedIn:** [linkedin.com/in/vibrantvas](https://linkedin.com/in/vibrantvas)  
 🐙 **GitHub:** [@vibrantvas](https://github.com/vibrantvas)  
 📂 **Repository:** [github.com/vibrantvas/portfolio](https://github.com/vibrantvas/portfolio)  
-🏆 **Credentials:** [Credential Wallet](https://www.credential.net/profile/ash-devry/wallet)
+🏆 **Credentials:** [Credly](https://www.credly.com/users/ash-devry/) | [Credential Wallet](https://www.credential.net/profile/ash-devry/wallet)
 
 ## 💼 Available For
 
@@ -186,8 +199,3 @@ I'm obsessed with finding the perfect AI tool for every task - if it can be auto
 ![Profile Views](https://komarev.com/ghpvc/?username=vibrantvas&color=F85D7F&style=flat-square)
 
 </div>
-
-with open('README.md', 'w', encoding='utf-8') as f:
-    f.write(profile_readme)
-
-print("✅ Created: README.md (for vibrantvas/vibrantvas repository)")
