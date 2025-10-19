@@ -18,6 +18,7 @@
 
 ---
 
+
 <div align="center">
   
 ## 💡 About Me
@@ -28,6 +29,7 @@ I'm a systems integration specialist and AI management expert with a proven trac
 
 With extensive experience in executive support, project management, and business process optimization, I combine technical expertise with strategic thinking to deliver solutions that solve real business challenges. Currently pursuing advanced studies in Technical Management and Business Analysis at DeVry University while building cutting-edge AI-powered systems for clients worldwide.
 
+
 <div align="center">
   
 ## 🎯 What I Do
@@ -35,14 +37,21 @@ With extensive experience in executive support, project management, and business
 <div align="left">
 
 🤖 **AI Systems Integration** - Design and implement custom AI automation solutions that reduce workload by up to 60%
+
 📊 **Project Management** - Coordinate complex projects with multiple stakeholders, ensuring on-time delivery
+
 🔧 **Business Process Optimization** - Identify inefficiencies and implement automated solutions that save 15+ hours weekly
+
 💼 **Executive Virtual Assistant Services** - Provide comprehensive C-suite administrative support with AI enhancement
+
 🌐 **Web Development & Automation** - Build functional applications, dashboards, and integration tools
+
 🔗 **Platform Integration** - Connect disparate business systems (Trello, Slack, Gmail, CRM) into unified workflows
+
 
 <div align="center">
   
+
 ## 💻 Technical Skills
 
 <div align="left">
@@ -91,20 +100,27 @@ AI Tool Integration & Management
 - **Social Media:** Buffer, Hootsuite
 - **Email Management:** Gmail, Outlook, Automation Tools
 
+
 <div align="center">
   
+
 ## 🔭 Current Projects
 
 <div align="left">
 
 🌟 **[AI Business Automation Suite](https://github.com/vibrantvas/ai-automation-suite)** - Comprehensive AI solutions for small business automation
+
 📝 **[Client Management Dashboard](https://github.com/vibrantvas/client-dashboard)** - Real-time project tracking with automated notifications
+
 🤝 **[VA Service Platform](https://github.com/vibrantvas/va-platform)** - Streamlined platform connecting VAs with clients
+
 📚 **[Process Documentation System](https://github.com/vibrantvas/process-docs)** - Automated SOP creation and maintenance tool
+
 🔗 **[Multi-Platform Integration Hub](https://github.com/vibrantvas/integration-hub)** - Unified system connecting business tools
 
 <div align="center">
   
+
 ## 💼 Professional Experience
 
 <div align="left">
@@ -142,6 +158,7 @@ Delivered virtual administrative support to small businesses and entrepreneurs
 
 <div align="center">
   
+
 ## 🎓 Education & Certifications
 
 <div align="left">
@@ -175,17 +192,21 @@ Delivered virtual administrative support to small businesses and entrepreneurs
 - Process Improvement
 - Quality Assurance
 
-<div align="center">
-  
+<div align="left">  
+
 **Certifications:**
 
-<div align="left">
 
 🏆 Project Management Professional
+
 📜 Business Analysis Certification
+
 🤖 AI & Automation Specialist
+
 🔧 Systems Integration Certification
+
 🎓 [Complete Credential Wallet](https://www.credential.net/profile/ash-devry/wallet)
+
 
 <div align="center">
   
@@ -200,6 +221,7 @@ Delivered virtual administrative support to small businesses and entrepreneurs
 - Machine Learning Integration for Business Applications
 - DevOps & CI/CD Practices
 
+
 <div align="center">
 
 ## 📊 GitHub Stats
@@ -210,8 +232,9 @@ Delivered virtual administrative support to small businesses and entrepreneurs
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vibrantvas&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866)
 
-</div>
 
+<div align="center">
+  
 ## 🏆 Key Achievements
 
 <div align="left">
@@ -222,6 +245,7 @@ Delivered virtual administrative support to small businesses and entrepreneurs
 🤝 **Multi-Industry Experience** - Served clients in tech, consulting, e-commerce, and services
 🚀 **Proprietary Systems** - Developed automation frameworks now used across multiple accounts
 
+
 <div align="center">
   
 ## 🤝 Let's Connect!
@@ -229,11 +253,12 @@ Delivered virtual administrative support to small businesses and entrepreneurs
 <div align="left">
 
 I'm always interested in collaborating on innovative projects, especially those involving:
-- 🤖 AI automation and intelligent systems integration
-- 📊 Business process improvement and optimization
-- 📁 Project management tools and methodologies
-- 💼 Virtual assistant technology and platforms
-- 🔗 Multi-platform integration and workflow automation
+🤖 AI automation and intelligent systems integration
+📊 Business process improvement and optimization
+📁 Project management tools and methodologies
+💼 Virtual assistant technology and platforms
+🔗 Multi-platform integration and workflow automation
+
 
 <div align="center">
   
@@ -247,6 +272,7 @@ I'm always interested in collaborating on innovative projects, especially those 
 📂 **Repository:** [github.com/vibrantvas/portfolio](https://github.com/vibrantvas/portfolio)  
 🏆 **Credentials:** [Credential Wallet](https://www.credential.net/profile/ash-devry/wallet)
 
+
 ## 💼 Available For
 
 ✨ **AI Automation Projects** - Custom solutions for business process automation  
@@ -256,6 +282,7 @@ I'm always interested in collaborating on innovative projects, especially those 
 💻 **Web Development** - Dashboards, tools, and client portals
 
 ---
+
 
 <div align="center">
 
