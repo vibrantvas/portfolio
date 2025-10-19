@@ -1,6 +1,6 @@
 # Contributing to Portfolio
 
-First off, thank you for considering contributing to Portfolio! It's people like you that make this project such a great tool.
+First off, thank you for considering contributing to my Portfolio! It's people like you that make this project such a great tool.
 
 ## Code of Conduct
 
