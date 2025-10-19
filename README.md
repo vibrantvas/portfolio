@@ -26,12 +26,12 @@ With extensive experience in executive support, project management, and business
 
 ## 🎯 What I Do
 
-- 🤖 **AI Systems Integration** - Design and implement custom AI automation solutions that reduce workload by up to 60%
-- 📊 **Project Management** - Coordinate complex projects with multiple stakeholders, ensuring on-time delivery
-- 🔧 **Business Process Optimization** - Identify inefficiencies and implement automated solutions that save 15+ hours weekly
-- 💼 **Executive Virtual Assistant Services** - Provide comprehensive C-suite administrative support with AI enhancement
-- 🌐 **Web Development & Automation** - Build functional applications, dashboards, and integration tools
-- 🔗 **Platform Integration** - Connect disparate business systems (Trello, Slack, Gmail, CRM) into unified workflows
+🤖 **AI Systems Integration** - Design and implement custom AI automation solutions that reduce workload by up to 60%
+📊 **Project Management** - Coordinate complex projects with multiple stakeholders, ensuring on-time delivery
+🔧 **Business Process Optimization** - Identify inefficiencies and implement automated solutions that save 15+ hours weekly
+💼 **Executive Virtual Assistant Services** - Provide comprehensive C-suite administrative support with AI enhancement
+🌐 **Web Development & Automation** - Build functional applications, dashboards, and integration tools
+🔗 **Platform Integration** - Connect disparate business systems (Trello, Slack, Gmail, CRM) into unified workflows
 
 ## 💻 Technical Skills
 
@@ -40,12 +40,12 @@ With extensive experience in executive support, project management, and business
 ![APIs](https://img.shields.io/badge/API-Integration-green?style=flat)
 ![Automation](https://img.shields.io/badge/Automation-Tools-orange?style=flat)
 
-- AI Tool Integration & Management
-- Workflow Automation Systems
-- API Development & Integration
-- Process Optimization & Mapping
-- Zapier, Make (Integromat)
-- Custom Python Scripts
+AI Tool Integration & Management
+Workflow Automation Systems
+API Development & Integration
+Process Optimization & Mapping
+Zapier, Make (Integromat)
+Custom Python Scripts
 
 ### Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -53,28 +53,28 @@ With extensive experience in executive support, project management, and business
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-- HTML, CSS, JavaScript
-- Python
-- Git & Version Control
-- Responsive Web Design
-- Database Management
+HTML, CSS, JavaScript
+Python
+Git & Version Control
+Responsive Web Design
+Database Management
 
 ### Business & Project Management Tools
-- **Project Management:** Trello, Asana, Monday.com, Jira
-- **Communication:** Slack, Microsoft Teams, Zoom
-- **Documentation:** Google Workspace, Microsoft Office Suite
-- **CRM Systems:** HubSpot, Salesforce
-- **Time Tracking:** Toggl, Clockify, RescueTime
-- **Social Media:** Buffer, Hootsuite
-- **Email Management:** Gmail, Outlook, Automation Tools
+**Project Management:** Trello, Asana, Monday.com, Jira
+**Communication:** Slack, Microsoft Teams, Zoom
+**Documentation:** Google Workspace, Microsoft Office Suite
+**CRM Systems:** HubSpot, Salesforce
+**Time Tracking:** Toggl, Clockify, RescueTime
+**Social Media:** Buffer, Hootsuite
+**Email Management:** Gmail, Outlook, Automation Tools
 
 ## 🔭 Current Projects
 
-- 🌟 **[AI Business Automation Suite](https://github.com/vibrantvas/ai-automation-suite)** - Comprehensive AI solutions for small business automation
-- 📝 **[Client Management Dashboard](https://github.com/vibrantvas/client-dashboard)** - Real-time project tracking with automated notifications
-- 🤝 **[VA Service Platform](https://github.com/vibrantvas/va-platform)** - Streamlined platform connecting VAs with clients
-- 📚 **[Process Documentation System](https://github.com/vibrantvas/process-docs)** - Automated SOP creation and maintenance tool
-- 🔗 **[Multi-Platform Integration Hub](https://github.com/vibrantvas/integration-hub)** - Unified system connecting business tools
+🌟 **[AI Business Automation Suite](https://github.com/vibrantvas/ai-automation-suite)** - Comprehensive AI solutions for small business automation
+📝 **[Client Management Dashboard](https://github.com/vibrantvas/client-dashboard)** - Real-time project tracking with automated notifications
+🤝 **[VA Service Platform](https://github.com/vibrantvas/va-platform)** - Streamlined platform connecting VAs with clients
+📚 **[Process Documentation System](https://github.com/vibrantvas/process-docs)** - Automated SOP creation and maintenance tool
+🔗 **[Multi-Platform Integration Hub](https://github.com/vibrantvas/integration-hub)** - Unified system connecting business tools
 
 ## 💼 Professional Experience
 
@@ -115,46 +115,46 @@ Delivered virtual administrative support to small businesses and entrepreneurs
 *Bachelor of Science in Technical Management* • 2025 - Present
 
 **Focus Areas:**
-- Systems Analysis
-- Database Management
-- Project Management
-- Technical Communication
-- Software Development Lifecycle
-- Business Process Modeling
+Systems Analysis
+Database Management
+Project Management
+Technical Communication
+Software Development Lifecycle
+Business Process Modeling
 
 **York Technical College**  
 *Technical Management & Business Analysis* • 2010 - 2011
 
 **Focus Areas:**
-- Operations Management
-- Financial Analysis
-- Process Improvement
-- Quality Assurance
+Operations Management
+Financial Analysis
+Process Improvement
+Quality Assurance
 
 **Calhoun Community College**  
 *Business Administration & Accounting* • 2006 - 2010
 
 **Focus Areas:**
-- Operations Management
-- Financial Analysis
-- Process Improvement
-- Quality Assurance
+Operations Management
+Financial Analysis
+Process Improvement
+Quality Assurance
 
 **Certifications:**
-- 🏆 Project Management Professional
-- 📜 Business Analysis Certification
-- 🤖 AI & Automation Specialist
-- 🔧 Systems Integration Certification
-- 🎓 [Complete Credential Wallet](https://www.credential.net/profile/ash-devry/wallet)
+🏆 Project Management Professional
+📜 Business Analysis Certification
+🤖 AI & Automation Specialist
+🔧 Systems Integration Certification
+🎓 [Complete Credential Wallet](https://www.credential.net/profile/ash-devry/wallet)
 
 ## 🌱 Currently Learning
 
-- Advanced AI Agent Development & LLM Integration
-- Full-Stack Web Development (MERN Stack)
-- Cloud Infrastructure & Deployment (AWS, Azure)
-- Advanced Project Management Techniques (Agile, Scrum)
-- Machine Learning Integration for Business Applications
-- DevOps & CI/CD Practices
+Advanced AI Agent Development & LLM Integration
+Full-Stack Web Development (MERN Stack)
+Cloud Infrastructure & Deployment (AWS, Azure)
+Advanced Project Management Techniques (Agile, Scrum)
+Machine Learning Integration for Business Applications
+DevOps & CI/CD Practices
 
 ## 📊 GitHub Stats
 
@@ -170,20 +170,20 @@ Delivered virtual administrative support to small businesses and entrepreneurs
 
 ## 🏆 Key Achievements
 
-- 💯 **100% Client Retention Rate** - Maintained through exceptional service delivery
-- ⏰ **15+ Hours Saved Weekly** - Average time saved per client through automation
-- 📈 **60% Workload Reduction** - Achieved through custom AI solutions
-- 🤝 **Multi-Industry Experience** - Served clients in tech, consulting, e-commerce, and services
-- 🚀 **Proprietary Systems** - Developed automation frameworks now used across multiple accounts
+💯 **100% Client Retention Rate** - Maintained through exceptional service delivery
+⏰ **15+ Hours Saved Weekly** - Average time saved per client through automation
+📈 **60% Workload Reduction** - Achieved through custom AI solutions
+🤝 **Multi-Industry Experience** - Served clients in tech, consulting, e-commerce, and services
+🚀 **Proprietary Systems** - Developed automation frameworks now used across multiple accounts
 
 ## 🤝 Let's Connect!
 
 I'm always interested in collaborating on innovative projects, especially those involving:
-- 🤖 AI automation and intelligent systems integration
-- 📊 Business process improvement and optimization
-- 📁 Project management tools and methodologies
-- 💼 Virtual assistant technology and platforms
-- 🔗 Multi-platform integration and workflow automation
+🤖 AI automation and intelligent systems integration
+📊 Business process improvement and optimization
+📁 Project management tools and methodologies
+💼 Virtual assistant technology and platforms
+🔗 Multi-platform integration and workflow automation
 
 ### 📫 Contact Me
 
