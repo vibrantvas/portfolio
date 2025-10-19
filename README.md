@@ -11,7 +11,7 @@
 *Transforming businesses through intelligent automation and seamless system integration*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vibrantvas-blue?style=flat&logo=linkedin)](https://linkedin.com/in/vibrantvas)
-[![Credentials](https://img.shields.io/badge/Credentials-orange?style=flat&logo=accredible)](https://www.credential.net/profile/ash-devry/wallet))
+[![Credentials](https://img.shields.io/badge/Accredible-Credentials-orange?style=flat&logo=accredible)](https://www.credential.net/profile/ash-devry/wallet)
 [![Email](https://img.shields.io/badge/Email-vibrantvaservices%40gmail.com-red?style=flat&logo=gmail)](mailto:vibrantvaservices@gmail.com)
 
 </div>
