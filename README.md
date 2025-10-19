@@ -281,17 +281,7 @@ I'm always interested in collaborating on innovative projects, especially those 
 📂 **Repository:** [github.com/vibrantvas/portfolio](https://github.com/vibrantvas/portfolio)  
 🏆 **Credentials:** [Credential Wallet](https://www.credential.net/profile/ash-devry/wallet)
 
-
-## 💼 Available For
-
-✨ **AI Automation Projects** - Custom solutions for business process automation  
-📊 **Project Management Consulting** - Setup, optimization, and training  
-🤝 **Virtual Assistant Services** - Executive support with AI enhancement  
-🔧 **Systems Integration** - Connecting your business tools seamlessly  
-💻 **Web Development** - Dashboards, tools, and client portals
-
 ---
-
 
 <div align="center">
 
